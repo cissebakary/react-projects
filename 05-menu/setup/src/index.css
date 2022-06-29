@@ -234,3 +234,9 @@ Menu
     height: 150px;
   }
 }
+.btn-cat {
+  display: flex;
+}
+.btn-cat-child {
+  margin: 10px 10px;
+}
